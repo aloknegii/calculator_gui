@@ -60,9 +60,6 @@ To create a responsive and visually appealing calculator application that suppor
 
 ---
 
-## 📸 **Screenshots**
-### Initial Interface:
-![Initial Interface](image.png)
 
 ### Functional Demonstration:
 1. Enter a calculation (e.g., `5+3`) and press `=`:
